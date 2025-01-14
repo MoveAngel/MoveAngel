@@ -1,17 +1,11 @@
-<h2>Hi, I'm MoveAngel! Welcome to My GitHub profile. 👋</h2>
+<h2 align="center">Hi, I'm MoveAngel! Welcome to My GitHub profile. 👋</h2>
 
 > - I'm student
 > - Game everyday
-> - Zectretary | Moonafic
-
-<h3><b>Music Activity</b></h3><br>
-  <p>
-    <a href="https://open.spotify.com/user/tgymctc9gtq4k8oyows4cw5hu" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=tgymctc9gtq4k8oyows4cw5hu&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
-  </p>
 
 <h3><b>Github Stats</b></h3><br>
   <p>
-    <a href="https://github.com/MoveAngel"><img src="https://github-readme-stats.vercel.app/api?username=MoveAngel&show_icons=true&theme=highcontrast"></a>
+    <a href="https://github.com/MoveAngel"><img src="https://github-readme-stats.vercel.app/api?username=MoveAngel&show_icons=true&theme=highcontrast"></a><br>
     <a href="https://github.com/MoveAngel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoveAngel&theme=highcontrast&layout=compact"></a>
   </p>
 
@@ -24,10 +18,5 @@
     <a href="https://moveangel.github.io"> <img src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
   </p>
 
-### TO-DO:
-- [ ] Learn more all about programming
-- [x] Finish 2 project website for something
-- [x] Graduate from school
-
-<h4>Thanks for visiting my GitHub</h4>
-<h4>Have a nice day 💕</h4>
+<h4 align="center">Thanks for visiting my GitHub</h4>
+<h4 align="center">Have a nice day 💕</h4>
